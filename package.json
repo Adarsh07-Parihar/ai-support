@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/genai": "^2.7.0",
+    "@scalekit-sdk/node": "^2.6.0",
+    "axios": "^1.16.1",
+    "mongoose": "^9.6.2",
+    "motion": "^12.38.0",
     "next": "16.2.6",
     "react": "19.2.4",
     "react-dom": "19.2.4"
