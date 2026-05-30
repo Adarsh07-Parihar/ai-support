@@ -1,6 +1,6 @@
 (function (){
 
-    const api_Url="http://localhost:3000/api/chat"
+    const api_Url="https://ai-support-nine-theta.vercel.app/api/chat"
 
 
     const scriptTag=document.currentScript;
